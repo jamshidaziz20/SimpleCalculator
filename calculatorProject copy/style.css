@@ -1,0 +1,28 @@
+table{
+    background-color: aqua;
+    
+}
+tr{
+    padding: 10px 0px;
+}
+td{
+    border: 1px solid grey;
+    border-radius: 2px;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+}
+#answer{
+    border: 2px solid grey; 
+    width: 50%;
+    height: 20px;
+    background-color: white;
+    margin: 5px;
+}
+.wrapper {
+    padding: 2px;
+    background-color: lightblue;
+    display: block;
+}
+
